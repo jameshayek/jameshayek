@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jameshayek
 - 👀 I’m interested in Signals; LTE, 5G & RF Tools and Measurements
-- 🌱 I’m currently learning, python, measurement tools, and radio access networks
+- 🌱 I work with Dart/Flutter, Python, RF measurement tools, and radio access networks
 - 📫 How to reach me James.Hayek@Gmail.com
 
 <!---
