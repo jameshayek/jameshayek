@@ -9,13 +9,13 @@ Through [ChromaWave Consulting](https://chromawaveconsulting.com), I focus on he
 - Workflow automation for technical and field operations
 - Python and PowerShell utilities
 - Data cleanup, analysis, and reporting pipelines
-- Technical documentation and closeout package automation
+- Technical documentation and automation
 - Lightweight dashboards and internal tools
 
 ## Current Interests
 
-- Making repetitive engineering work easier to audit and repeat
-- Turning field data into clear, client-ready outputs
+- Making repetitive work easier to audit and repeat
+- Turning data into clear, client-ready outputs
 - Building small tools that remove friction from project delivery
 
 ## Contact
