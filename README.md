@@ -16,7 +16,7 @@ Through [ChromaWave Consulting](https://chromawaveconsulting.com), I focus on he
 
 - Making repetitive work easier to audit and repeat
 - Turning data into clear, client-ready outputs
-- Building small tools that remove friction from project delivery
+- Building tools that remove friction from project delivery
 
 ## Contact
 
